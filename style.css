@@ -280,7 +280,7 @@ accourding the the lenght of the paragraph */
   padding: 12px 0;
 }
 
-.navbar {
+.navbar-2 {
   list-style: none;
   text-decoration: none;
   background-color: #fff;
@@ -298,11 +298,11 @@ accourding the the lenght of the paragraph */
   border-bottom: 1px solid #dfe1e6;
 }
 
-.left {
+.left-2 {
   display: flex;
 }
 
-.left h3 {
+.left-2 h3 {
   margin-right: 12px;
 }
 
@@ -640,7 +640,7 @@ form legend {
     margin-left: 65%;
   }
 
-  .navbar {
+  .navbar-2 {
     list-style: none;
     text-decoration: none;
     background-color: #fff;
@@ -716,11 +716,11 @@ form legend {
     font-family: 'Poppins', sans-serif;
   }
 
-  .left {
+  .left-2 {
     display: flex;
   }
 
-  .left h3 {
+  .left-2 h3 {
     margin-right: 12px;
   }
 
